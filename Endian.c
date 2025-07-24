@@ -4,7 +4,7 @@ Little Endian- LSB is stored at the lowest memory address
 Big Endian- MSB is stored at the lowest memory address
 */
 
-Code:
+// Code:
 
 #include<stdio.h>
 int main(){
