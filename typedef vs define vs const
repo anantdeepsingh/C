@@ -1,0 +1,5 @@
+typedef is bascially used as an alias for an existing type 
+makes complex things easier
+#define used for subvstituiton before compilation 
+Can define constants, macros, or simple text substitutions. ( no memory allocation) 
+defines a variable whose vlaue cant chaneg after inittailiztion ( occu[ioes memory)
