@@ -1,0 +1,6 @@
+source code
+preprocessors use to pre process files( like include header, macros #define)(.i)
+compiler(.s) (high level code-> assembly code , checks for syntax or sometimes directly to machine code) 
+assembler (.o) (assembly code to object code)  
+linker executable code(.exe) 
+loader ( part of os) 
